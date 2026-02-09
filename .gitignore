@@ -1,1 +1,12 @@
 
+# IDE and System files
+.vscode/
+.idea/
+*.log
+*.tmp
+.DS_Store
+
+# Database connection details
+config.php
+*.env
+credentials.txt
